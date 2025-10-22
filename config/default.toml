@@ -1,0 +1,5 @@
+[app]
+project_name = "FakeHippoRag"
+version = "0.1.0"
+retriever_backend = "vector"
+generator_backend = "openai"
